@@ -48,7 +48,7 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "Đã Kich Hoạt 💛",
+            title: "Đã Kích Hoạt 💛",
             feature_set: [
                 {
                     title: "CanhTuanGold💌",
@@ -131,7 +131,7 @@ if (ua.includes("Locket")) {
         }),
         camera_filter_config: JSON.stringify({
             allows_custom_filters: true,
-            ai_face_enabled: true
+            ai_face_enabled: true,
             show_filter_button: true,
             sheet_enabled: true,
             open_sheet_immediately: true,
