@@ -131,6 +131,7 @@ if (ua.includes("Locket")) {
         }),
         camera_filter_config: JSON.stringify({
             allows_custom_filters: true,
+            ai_face_enabled: true
             show_filter_button: true,
             sheet_enabled: true,
             open_sheet_immediately: true,
