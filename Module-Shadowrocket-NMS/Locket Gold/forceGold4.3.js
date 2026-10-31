@@ -285,7 +285,7 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "midautumn_2026",            
-            url: "https://i.postimg.cc/L8Mj4n1q/20261026-234316-preview-rev-1.png",
+            url: "https://ibb.co/TMxGV5HN",
             use_local_time_zone: true,
             placement: "below",
             start_at: "2020-01-01T00:00:00",
@@ -302,7 +302,7 @@ if (ua.includes("Locket")) {
         activity_bar_enabled: "true",
         journal_activity_bar_enabled: "true",
         journal_settings: JSON.stringify({
-            debug_menu_enabled: false,
+            debug_menu_enabled: true,
             focus_animation: true,
             compact_header: true,
             friends_button: true,
