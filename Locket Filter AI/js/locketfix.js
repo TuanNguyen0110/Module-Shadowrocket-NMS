@@ -133,14 +133,14 @@ Object.assign(obj.entries, {
         profile_banner: true
     }),
     feature_discovery_popup_config: JSON.stringify({
-        tag: "NguyenTuanGOLD",
+        tag: "LOCKET GOLD NMS",
         tag_gradient: true,
         tag_style: "gold_gradient",
         title: "Đã Kích Hoạt 💛",
         feature_set: [
             {
                 title: "CanhTuanGold💌",
-                    body: "Chúc Mừng Bạn Đã Lên Gold❤️",
+                    body: "Free Mang Bán Làm Chó 🐶",
                     imageURL: "https://i.postimg.cc/XqMT1frq/locketgold.png"
             }
         ],
@@ -5159,7 +5159,7 @@ Object.assign(obj.entries, {
                         }
                 ]
         },
-		{
+        {
         "section": "🎨 Decorative by Canh Tuan",
         "items": [
                 {
@@ -5242,6 +5242,23 @@ Object.assign(obj.entries, {
                         }
                 },
                 {
+                                "overlay_id": "caption:mang_ban_lam_cho",
+                                "source": "remote",
+                                "caption": {
+                                        "background": {
+                                                "colors": [
+                                                        "#B8E7FF",
+                                                        "#A8F5D0",
+                                                        "#DCCBFF"
+                                                ]
+                                        },
+                                        "max_lines": 1,
+                                        "text": "Mang bán làm chó🐶",
+                                        "text_color": "#183153",
+                                        "type": "static_content"
+                                }
+                        },
+                {
                         "overlay_id": "caption:cu",
                         "source": "remote",
                         "caption": {
@@ -5321,10 +5338,10 @@ Object.assign(obj.entries, {
                                 "text": "dự án ma",
                                 "text_color": "#FFFFFFE6",
                                 "type": "static_content"
-                        }
-                }
-        ]
-},
+		                        }
+		                }
+		        ]
+		},
         {
                 "section": "🎨 Tình yêu & Cơm chó 💕",
                 "items": [
@@ -6126,401 +6143,7 @@ Object.assign(obj.entries, {
                         }
                 ]
         },
-        {
-                "section": "🎨 Decorative by MinhHiep08",
-                "items": [
-                        {
-                                "overlay_id": "caption:bunniesept nah",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#FF91B4",
-                                                        "#FFB9CF",
-                                                        "#FFE2ED"
-                                                ]
-                                        },
-                                        "max_lines": 1,
-                                        "text": " bunniesept nah 🐰 ",
-                                        "text_color": "#77717A",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:MinhHiep08",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#B8E7FF",
-                                                        "#A8F5D0",
-                                                        "#DCCBFF"
-                                                ]
-                                        },
-                                        "max_lines": 1,
-                                        "text": "💻 MinhHiep08",
-                                        "text_color": "#183153",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:Hieon",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#B8E7FF",
-                                                        "#A8F5D0",
-                                                        "#DCCBFF"
-                                                ]
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Hieon",
-                                        "text_color": "#183153",
-                                        "type": "static_content"
-                                }
-                        },
-
-                        {
-                                "overlay_id": "caption:feeling_cute",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#F8BBD0",
-                                                        "#E91E63"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "🌷",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Feeling Cute",
-                                        "localized_text": {
-                                                "en": "Feeling Cute",
-                                                "vn": "Cảm thấy dthw"
-                                        },
-                                        "text_color": "#FFFFFFE5",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:cu",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#FFD6A5",
-                                                        "#FFF1A8",
-                                                        "#FFC4D6"
-                                                ]
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Cu 🐎",
-                                        "text_color": "#633B24",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:tuat",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#2C1A0E",
-                                                        "#5D4037",
-                                                        "#D7A86E"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "🐕",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Tuất",
-                                        "text_color": "#FFFFFFE6",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:wedding_time",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#FFE4E1",
-                                                        "#E73C7E"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "💍",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Wedding Time!",
-                                        "localized_text": {
-                                                "en": "Wedding Time!",
-                                                "vn": "Đám cưới nè!"
-                                        },
-                                        "text_color": "#FFFFFFE6",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:cam_thay_hanh_phuc",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#EC407A",
-                                                        "#F8BBD0"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "🇻🇳",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Cảm thấy hạnh phúc",
-                                        "localized_text": {
-                                                "en": "Feeling Happy",
-                                                "vn": "Cảm thấy hạnh phúc"
-                                        },
-                                        "text_color": "#FFFFFFE6",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:coffee_time",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#4E342E",
-                                                        "#8D6E63"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "☕",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Coffee Time!",
-                                        "localized_text": {
-                                                "en": "Coffee Time!",
-                                                "vn": "Giờ uống cà phê!"
-                                        },
-                                        "text_color": "#FFFFFFE6",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:snake_vibes",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#2E7D32",
-                                                        "#66BB6A"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "🐍",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Snake Vibes",
-                                        "localized_text": {
-                                                "en": "Snake Vibes",
-                                                "vn": "Chất rắn"
-                                        },
-                                        "text_color": "#FFFFFFE6",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:mixue_time",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#FFF9C4",
-                                                        "#F8BBD0"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "🍦",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Mixue Time!",
-                                        "localized_text": {
-                                                "en": "Mixue Time!",
-                                                "vn": "Giờ Mixue!"
-                                        },
-                                        "text_color": "#000000E6",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:locket_time",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#ECEFF1",
-                                                        "#B3E5FC"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "📷",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Locket Time!",
-                                        "text_color": "#000000E6",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:cinema_time",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#1A237E",
-                                                        "#455A64"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "🎬",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Cinema Time!",
-                                        "text_color": "#FFFFFFE6",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:dating_time",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#E91E63",
-                                                        "#F44336"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "💕",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Dating Time!",
-                                        "text_color": "#FFFFFFE6",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:graduation_day",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#1A237E",
-                                                        "#283593"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "🎓",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Happy Graduation Day!",
-                                        "localized_text": {
-                                                "en": "Happy Graduation Day!",
-                                                "vn": "Chúc mừng tốt nghiệp!"
-                                        },
-                                        "text_color": "#FFFFFFE6",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:shopping_time",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#B3E5FC",
-                                                        "#FFFFFF"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "🛍️",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Shopping Time!",
-                                        "localized_text": {
-                                                "en": "Shopping Time!",
-                                                "vn": "Giờ mua sắm!"
-                                        },
-                                        "text_color": "#000000E6",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:dinner_time",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#FFCCBC",
-                                                        "#FF8A80"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "🍽️",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Dinner Time!",
-                                        "localized_text": {
-                                                "en": "Dinner Time!",
-                                                "vn": "Giờ ăn tối!"
-                                        },
-                                        "text_color": "#FFFFFFE6",
-                                        "type": "static_content"
-                                }
-                        },
-                        {
-                                "overlay_id": "caption:chilling_time",
-                                "source": "remote",
-                                "caption": {
-                                        "background": {
-                                                "colors": [
-                                                        "#E1BEE7",
-                                                        "#F8BBD0"
-                                                ]
-                                        },
-                                        "icon": {
-                                                "data": "🌴",
-                                                "type": "emoji"
-                                        },
-                                        "max_lines": 1,
-                                        "text": "Chilling Time!",
-                                        "localized_text": {
-                                                "en": "Chilling Time!",
-                                                "vn": "Giờ thư giãn!"
-                                        },
-                                        "text_color": "#FFFFFFE6",
-                                        "type": "static_content"
-                                }
-                        }
-                ]
-        },
+ 
         {
                 "section": "🎨 Độc lạ đời sống",
                 "items": [
